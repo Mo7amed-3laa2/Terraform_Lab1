@@ -1,0 +1,8 @@
+# Ignore
+lab1.txt
+errors.txt
+*terraform*
+.terraform/
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+terraform.tfstate.backup
