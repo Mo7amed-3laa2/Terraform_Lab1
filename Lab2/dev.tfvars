@@ -1,0 +1,8 @@
+vpc_cidr              = "10.0.0.0/16"
+subnet_public1a_cidr  = "10.0.1.0/24"
+subnet_public1b_cidr  = "10.0.2.0/24"
+subnet_private1a_cidr = "10.0.3.0/24"
+subnet_private1b_cidr = "10.0.4.0/24"
+region                = "eu-central-1"
+avz_1a                = "eu-central-1a"
+avz_1b                = "eu-central-1b"
